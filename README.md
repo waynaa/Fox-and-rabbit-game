@@ -9,4 +9,7 @@ Mechanics:
 5.	A rabbit is removed from the board if the fox “eats” the rabbit. That is, if the fox intersects with a rabbit on the same tile.
 6.	The game ends when the fox clears the board of all the rabbits (WIN) or when there are 50 rabbits on the board(LOSE)
 
-To run the game, run the batch file with filename: start
+To run the code:
+1. Download ZIP of Fox-and-rabbit-game repository.
+2. Unzip folder.
+3. Click start.bat to run the game.
